@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "name": "troll-back-hook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mralexsh/troll-back-hook",
+  "author": "Aleksey <mralexsh@mail.ru>",
+  "license": "MIT"
+}
